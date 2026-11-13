@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific and generated files
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
+
+# Private interview and personal documents
+.tmp_resume/
+deliverables/
+output/
+tools/
+*.docx
+*.pdf
